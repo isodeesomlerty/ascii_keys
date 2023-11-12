@@ -6,6 +6,8 @@
 
 Upon running the game, a window is displayed with the instruction "Press a key to get its ASCII code:". When the user presses a key, its ASCII code is displayed in the center of the window. The game runs in an infinite loop until the user closes the window.
 
+![ASCII Code Fletcher](ASCII%20Code%20Fletcher%20Poster.png)
+
 ## Prerequisites
 
 Before you begin, ensure you have met the following requirements:
